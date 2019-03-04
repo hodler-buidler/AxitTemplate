@@ -1,3 +1,9 @@
+https://nikitosgolubev.github.io/axitTemplate/
+
+https://nikitosgolubev.github.io/axitTemplate/
+
+https://nikitosgolubev.github.io/axitTemplate/
+
 # Axit Landing Page Template
 June of 2017.
 
@@ -18,8 +24,15 @@ That time, I also realized the importance of HOVER effects and how tremendously 
 To conclude, I liked this project. It demanded of me a little research but finally, everything was fine. 
 
 # Skills applied
+- HTML
+- CSS (from float to flexbox)
+- Javascript
+- JQuery
+- Responsivity
+- Ability to solve problems with Google
 
 # Шаблон Axit Landing Page
+Июнь 2017.
 
 # Мои воспоминания
 Это первый проект, который я с уверенностью могу назвать "серьёзным". Здесь проявились мои знания Javascript, также использовалось JQuery. Я также написал несколько функций:
@@ -31,6 +44,16 @@ To conclude, I liked this project. It demanded of me a little research but final
 - Я не знал как создать "скролл меню"(когда при клике на элемент меню, страница проматывается до соответствующей HTML секции)
 - Были некоторые сомнения, относительно реализации адаптивности
 
-Тем не менее, с помоющью Гугла я преодалел трудности и пришёл к результату. Хочу отметить, что произошло одно коренное изменение: я перешёл с Float вёрстки на FlexBox. FlexBox - это восхитительная и современная технология, которая делает процесс обеспечения адаптивности  намного проще и вёрстка сама по себе становится более гибкой, готовой к будущим изменениям.
+Тем не менее, с помоющью Гугла я преодалел трудности и пришёл к результату. Хочу отметить, что произошло одно коренное изменение: я перешёл с Float вёрстки на FlexBox. FlexBox - это восхитительная и современная технология, которая делает процесс обеспечения адаптивности  намного проще, и вёрстка сама по себе становится более гибкой, готовой к будущим изменениям.
+
+Так же, в то время я осознал важность HOVER эффектов и то, как сильно они улучшают взаимодействие с пользователями. Идея исследования плавных user-friendly анимаций родилась в моей голове.
+
+Подитожив, могу сказать, что мне понравился этот проект. Он потребовал от меня небольшого исследования, но всё закончилось хорошо.
 
 # Применённые навыки
+- HTML
+- CSS (от float к flexbox)
+- Javascript
+- JQuery
+- Адаптивность
+- Способность решать проблемы с помощью гугла
